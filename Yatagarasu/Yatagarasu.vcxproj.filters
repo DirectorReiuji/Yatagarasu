@@ -27,9 +27,15 @@
     <ClInclude Include="src\Yatagarasu\EntryPoint.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\Yatagarasu\Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Yatagarasu\Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Yatagarasu\Log.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -1,0 +1,3 @@
+[submodule "Yatagarasu/vendor/spdlog"]
+	path = Yatagarasu/vendor/spdlog
+	url = https://github.com/gabime/spdlog
